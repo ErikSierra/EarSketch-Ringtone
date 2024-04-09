@@ -3,9 +3,10 @@
 This is a ringtone I created in high school through the platform EarSketch using the Python coding language
 
 Instructions to view EarSketch project
-1. Navigate to this shared (view only) link: https://earsketch.gatech.edu/earsketch2/?sharing=Jhdb4gi7cLELlGcByjR9Cg
-2. Click "RUN" button
-3. Click the play button to watch and listen
+1. Navigate to this shared (view only) link:
+   https://earsketch.gatech.edu/earsketch2/?sharing=Jhdb4gi7cLELlGcByjR9Cg
+3. Click "RUN" button
+4. Click the play button to watch and listen
 
 ![image](https://github.com/ErikSierra/EarSketch-Ringtone/assets/120680439/a5f0f3b9-4400-4aa1-b0cb-bda6f0d874d6)
 
